@@ -4,6 +4,9 @@ Unloaded files have all lines classified as relevant, but whitespace / comments 
 
 This leads to the overall coverage being understated.
 
+- Github issue: https://github.com/colszowka/simplecov/issues/604
+- Contributed PR: https://github.com/colszowka/simplecov/pull/605
+
 ## Actual result:
 
 ![Actual result](actual.png)
